@@ -1,3 +1,8 @@
 why am I doing this
 Goddess on the mountain top
+<<<<<<< HEAD
 hey it works!
+=======
+isn't this just the coolest ;)
+>>>>>>> 95a001da82cfaaf3a68b7e3f3f6e1d31d755ec45
+yepyep
